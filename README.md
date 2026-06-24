@@ -16,6 +16,9 @@ Display hostname, IP address, disk usage and memory usage.
 ### log_cleanup.sh
 Delete log files older than 7 days.
 
+### backup.sh
+Create a compressed backup archive.
+
 ## Technologies
 
 - Linux
