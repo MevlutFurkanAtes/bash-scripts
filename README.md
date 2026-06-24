@@ -19,6 +19,10 @@ Delete log files older than 7 days.
 ### backup.sh
 Create a compressed backup archive.
 
+### disk_alert.sh
+
+Check disk usage and generate warning if usage exceeds 80%.
+
 ## Technologies
 
 - Linux
