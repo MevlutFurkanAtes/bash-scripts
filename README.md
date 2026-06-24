@@ -1,7 +1,3 @@
-# bash-scripts
-Useful Bash scripts for Linux system administration
-
-
 # Bash Scripts
 
 Useful Bash scripts for Linux system administration.
